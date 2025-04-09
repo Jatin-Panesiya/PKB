@@ -1,10 +1,10 @@
-import DayTabs from "../HorseRacing/common/DayTabs/DayTabs.tsx";
+import { useContext, useEffect } from "react";
 import ResultsByRegion from "./common/ResultsByRegion/ResultsByRegion.tsx";
 import RaceDayResultsTable from "./common/RaceDayResultsTable/RaceDayResultsTable.tsx";
-import { useContext, useEffect } from "react";
+import RacingTabs from "../HorseRacing/common/RacingTabs/RacingTabs.tsx";
+import DayTabs from "../HorseRacing/common/DayTabs/DayTabs.tsx";
 import { AppContext } from "../../context/AppContext/AppContext.tsx";
 import { TABS_KEYS } from "../../utils/common.type.ts";
-import RacingTabs from "../HorseRacing/common/RacingTabs/RacingTabs.tsx";
 
 const GreyHoundRacing = () => {
   const { setActiveTab } = useContext(AppContext);

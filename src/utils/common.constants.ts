@@ -53,112 +53,195 @@ export const masterTableData = [
     date: "Saturday 15th March 2025",
     tableData: [
       {
-        coalfield: {
-          number: 1,
-          name: "Bankers Choice",
-          coName: "D Stackhouse",
-        },
-        topTote: "$3.70 / $1.90",
-        sp: "$4.40",
-        margin: "02:31 .260",
+        rows: [
+          {
+            coalfield: {
+              number: 1,
+              name: "Bankers Choice",
+              coName: "D Stackhouse",
+            },
+            topTote: "$3.70 / $1.90",
+            sp: "$4.40",
+            margin: "02:31 .260",
+          },
+          {
+            coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
+            topTote: "$4.20",
+            sp: "$13.00",
+            margin: "0.75L",
+          },
+          {
+            coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
+            topTote: "-",
+            sp: "$2.50",
+            margin: "0.85L",
+          },
+          {
+            coalfield: {
+              number: 3,
+              name: "Le Don Die Vie",
+              coName: "J Kennedy",
+            },
+            topTote: "-",
+            sp: "$5.50",
+            margin: "1.60L",
+          },
+          {
+            coalfield: {
+              number: 5,
+              name: "Mystery Island",
+              coName: "C Williams",
+            },
+            topTote: "-",
+            sp: "$3.60",
+            margin: "2.10L",
+          },
+        ],
       },
       {
-        coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
-        topTote: "$4.20",
-        sp: "$13.00",
-        margin: "0.75L",
-      },
-      {
-        coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
-        topTote: "-",
-        sp: "$2.50",
-        margin: "0.85L",
-      },
-      {
-        coalfield: { number: 3, name: "Le Don Die Vie", coName: "J Kennedy" },
-        topTote: "-",
-        sp: "$5.50",
-        margin: "1.60L",
-      },
-      {
-        coalfield: { number: 5, name: "Mystery Island", coName: "C Williams" },
-        topTote: "-",
-        sp: "$3.60",
-        margin: "2.10L",
+        rows: [
+          {
+            coalfield: {
+              number: 1,
+              name: "Bankers Choice",
+              coName: "D Stackhouse",
+            },
+            topTote: "$3.70 / $1.90",
+            sp: "$4.40",
+            margin: "02:31 .260",
+          },
+          {
+            coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
+            topTote: "$4.20",
+            sp: "$13.00",
+            margin: "0.75L",
+          },
+          {
+            coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
+            topTote: "-",
+            sp: "$2.50",
+            margin: "0.85L",
+          },
+          {
+            coalfield: {
+              number: 3,
+              name: "Le Don Die Vie",
+              coName: "J Kennedy",
+            },
+            topTote: "-",
+            sp: "$5.50",
+            margin: "1.60L",
+          },
+          {
+            coalfield: {
+              number: 5,
+              name: "Mystery Island",
+              coName: "C Williams",
+            },
+            topTote: "-",
+            sp: "$3.60",
+            margin: "2.10L",
+          },
+        ],
       },
     ],
   },
   {
-    date: "Saturday 15th March 2025",
+    date: "Saturday 16th March 2025",
     tableData: [
       {
-        coalfield: {
-          number: 1,
-          name: "Bankers Choice",
-          coName: "D Stackhouse",
-        },
-        topTote: "$3.70 / $1.90",
-        sp: "$4.40",
-        margin: "02:31 .260",
+        rows: [
+          {
+            coalfield: {
+              number: 1,
+              name: "Bankers Choice",
+              coName: "D Stackhouse",
+            },
+            topTote: "$3.70 / $1.90",
+            sp: "$4.40",
+            margin: "02:31 .260",
+          },
+          {
+            coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
+            topTote: "$4.20",
+            sp: "$13.00",
+            margin: "0.75L",
+          },
+          {
+            coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
+            topTote: "-",
+            sp: "$2.50",
+            margin: "0.85L",
+          },
+          {
+            coalfield: {
+              number: 3,
+              name: "Le Don Die Vie",
+              coName: "J Kennedy",
+            },
+            topTote: "-",
+            sp: "$5.50",
+            margin: "1.60L",
+          },
+          {
+            coalfield: {
+              number: 5,
+              name: "Mystery Island",
+              coName: "C Williams",
+            },
+            topTote: "-",
+            sp: "$3.60",
+            margin: "2.10L",
+          },
+        ],
       },
       {
-        coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
-        topTote: "$4.20",
-        sp: "$13.00",
-        margin: "0.75L",
-      },
-      {
-        coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
-        topTote: "-",
-        sp: "$2.50",
-        margin: "0.85L",
-      },
-      {
-        coalfield: { number: 3, name: "Le Don Die Vie", coName: "J Kennedy" },
-        topTote: "-",
-        sp: "$5.50",
-        margin: "1.60L",
-      },
-      {
-        coalfield: { number: 5, name: "Mystery Island", coName: "C Williams" },
-        topTote: "-",
-        sp: "$3.60",
-        margin: "2.10L",
+        rows: [
+          {
+            coalfield: {
+              number: 1,
+              name: "Bankers Choice",
+              coName: "D Stackhouse",
+            },
+            topTote: "$3.70 / $1.90",
+            sp: "$4.40",
+            margin: "02:31 .260",
+          },
+          {
+            coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
+            topTote: "$4.20",
+            sp: "$13.00",
+            margin: "0.75L",
+          },
+          {
+            coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
+            topTote: "-",
+            sp: "$2.50",
+            margin: "0.85L",
+          },
+          {
+            coalfield: {
+              number: 3,
+              name: "Le Don Die Vie",
+              coName: "J Kennedy",
+            },
+            topTote: "-",
+            sp: "$5.50",
+            margin: "1.60L",
+          },
+          {
+            coalfield: {
+              number: 5,
+              name: "Mystery Island",
+              coName: "C Williams",
+            },
+            topTote: "-",
+            sp: "$3.60",
+            margin: "2.10L",
+          },
+        ],
       },
     ],
-  },
-];
-
-export const tableData = [
-  {
-    coalfield: { number: 1, name: "Bankers Choice", coName: "D Stackhouse" },
-    topTote: "$3.70 / $1.90",
-    sp: "$4.40",
-    margin: "02:31 .260",
-  },
-  {
-    coalfield: { number: 10, name: "Speycaster", coName: "J McNeil" },
-    topTote: "$4.20",
-    sp: "$13.00",
-    margin: "0.75L",
-  },
-  {
-    coalfield: { number: 2, name: "Mostly Cloudy", coName: "E Brown" },
-    topTote: "-",
-    sp: "$2.50",
-    margin: "0.85L",
-  },
-  {
-    coalfield: { number: 3, name: "Le Don Die Vie", coName: "J Kennedy" },
-    topTote: "-",
-    sp: "$5.50",
-    margin: "1.60L",
-  },
-  {
-    coalfield: { number: 5, name: "Mystery Island", coName: "C Williams" },
-    topTote: "-",
-    sp: "$3.60",
-    margin: "2.10L",
   },
 ];
 
