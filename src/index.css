@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.mantine-Select-option[aria-selected=true]{
+    background: #002503;
+    color: #F0E62A;
+}
+
+.mantine-Select-option{
+    justify-content: center !important;
+}
+
+.mantine-Select-option > svg {
+    display: none;
+}
